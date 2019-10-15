@@ -17,6 +17,7 @@ arr.unshift()
 end
 
 def remove_element_from_end_of_array(array)
+  arr = [array]
 arr.pop()
 end
 
